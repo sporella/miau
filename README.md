@@ -31,3 +31,7 @@ perros <- c("Lassie", "Scooby Doo", "Milú")
 gatitos(perros)
 #> [1] ">^..^<"
 ```
+
+## ¡Vivan los gatos\!
+
+![](man/figures/gatito.gif)
