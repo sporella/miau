@@ -1,11 +1,15 @@
 Package: miau
 Title: Funciones de gatitos
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R: c(
     person(given = "Stephanie",
            family = "Orellana",
            role = c("aut", "cre"),
-           email = "sporella@uc.cl")
+           email = "sporella@uc.cl"),
+    person(given = "Riva",
+           family = "Quiroga",
+           role = c("ctb"),
+           email = "riva.quiroga@uc.cl"))
 Description: Un paquete maravilloso con funciones de gatitos.
 License: MIT + file LICENSE
 Encoding: UTF-8
